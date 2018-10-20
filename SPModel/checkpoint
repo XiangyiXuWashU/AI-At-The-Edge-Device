@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/nvidia/DeepSensing/SplitModel/splitModel.ckpt"
+all_model_checkpoint_paths: "/home/nvidia/DeepSensing/SplitModel/splitModel.ckpt"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tf/PycharmProjects/Test/R1R2/MPModel/MPModel.ckpt"
+all_model_checkpoint_paths: "/home/tf/PycharmProjects/Test/R1R2/MPModel/MPModel.ckpt"

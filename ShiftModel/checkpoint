@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tf/PycharmProjects/DeepSensing/ShiftModel/shiftModel_k0:2.0e+07_k1:2.0e+07_start:-2.0_stop:2.0_number:300.ckpt"
+all_model_checkpoint_paths: "/home/tf/PycharmProjects/DeepSensing/ShiftModel/shiftModel_k0:2.0e+07_k1:2.0e+07_start:-2.0_stop:2.0_number:300.ckpt"
