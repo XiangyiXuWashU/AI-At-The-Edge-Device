@@ -19,4 +19,4 @@
 
 - Altium designer (Circuit design)
 - Jetson TX2 (NVIDIA Embedded GPU)
-- Solidworks (Mechanical Design
+- Solidworks (Mechanical Design)
